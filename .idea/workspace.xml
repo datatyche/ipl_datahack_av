@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/bat_stat-checkpoint.ipynb" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/bat_stat-checkpoint.ipynb" />
       <change beforePath="$PROJECT_DIR$/notebooks/bat_stat.ipynb" afterPath="$PROJECT_DIR$/notebooks/bat_stat.ipynb" />
-      <change beforePath="$PROJECT_DIR$/resources/features/bat_stat.csv" afterPath="$PROJECT_DIR$/resources/features/bat_stat.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521084231626</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completed bat stat and csv generated under resource/features.">
+      <created>1521084338573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521084338573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
