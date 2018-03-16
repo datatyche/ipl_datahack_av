@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5634658b-e960-4208-bde8-767fc9927e3e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/notebooks/My_notebook.ipynb" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/notebooks/bat_stat.ipynb" afterPath="$PROJECT_DIR$/notebooks/bat_stat.ipynb" />
-      <change beforePath="$PROJECT_DIR$/resources/features/bat_stat.csv" afterPath="$PROJECT_DIR$/resources/features/bat_stat.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,6 +27,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -34,8 +41,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/IPLDataHack.ipynb" />
-        <option value="$PROJECT_DIR$/notebooks/bat_stat.ipynb" />
         <option value="$PROJECT_DIR$/notebooks/IPLDataHack.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/bat_stat.ipynb" />
+        <option value="$PROJECT_DIR$/notebooks/My_notebook.ipynb" />
       </list>
     </option>
   </component>
@@ -44,6 +52,9 @@
     <option name="y" value="46" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -60,7 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,6 +99,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521084448767</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completed bat stat and csv generated under resource/features.">
+      <created>1521084702755</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521084702755</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -262,6 +280,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/bat_stat.csv" />
+    <entry file="file://$PROJECT_DIR$/notebooks/IPLDataHack.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notebooks/bat_stat.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -269,18 +295,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/bat_stat.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebooks/IPLDataHack.ipynb">
+    <entry file="file://$PROJECT_DIR$/notebooks/My_notebook.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
